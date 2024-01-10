@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/Portfolio-react/static/js/main.bffa1252.js",
+    "static/media/w.png": "/Portfolio-react/static/media/w.45440b85355c4f215e27.png",
+    "static/media/ccImage.png": "/Portfolio-react/static/media/ccImage.93b80cac67cc8e994422.png",
+    "static/media/formImage.png": "/Portfolio-react/static/media/formImage.d8d36da569cb417b8ba2.png",
+    "static/media/myprofile - Copy-PhotoRoom.jpg": "/Portfolio-react/static/media/myprofile - Copy-PhotoRoom.2e4a244fe9c96246fd7a.jpg",
+    "static/media/grad-back.jpg": "/Portfolio-react/static/media/grad-back.956d03abaf01def4c219.jpg",
+    "static/media/currencyconverterLogo.png": "/Portfolio-react/static/media/currencyconverterLogo.e53b450a24955793430d.png",
+    "index.html": "/Portfolio-react/index.html",
+    "main.bffa1252.js.map": "/Portfolio-react/static/js/main.bffa1252.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bffa1252.js"
+  ]
+}
